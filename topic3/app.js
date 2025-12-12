@@ -197,13 +197,27 @@
 
 
 
+//===========================================================
+
+// function greet(userName) {
+//     console.log("Salam "+ userName);
+// }
+
+// greet("Alica")
+
+//ic ice funksiya
+// function calculateNumbers(a,b) {
+//     let c = a*b;
+//     return c;
+// }
+
+// console.log(calculateNumbers(2, 3));
 
 
-
-
-
-
-
+// let colors = ["red","yellow", "brown","pink"];
+// for (let i = 0; i < colors.length; i++) {
+//     console.log(colors[i]);
+// }
 
 
 
