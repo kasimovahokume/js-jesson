@@ -121,3 +121,77 @@
 //         break
 //     }
 // }
+
+
+// let fruits = ["Apple","Banana","Mango","Orange","Pineapple","Grapes","Strawberry","Watermelon"];
+// let newFruits = [];
+// for(let i = 0; i < fruits.length; i++){
+//     let el = fruits[i];
+
+//     if(el.includes("e")){
+//         console.log("You have",el);
+//     }
+// } 
+
+
+
+
+// let fruits = ["Apple","Banana","Mango","Orange"];
+//     for (let i = 0; i < fruits.length; i++) {
+//         let el = fruits[i];
+//         console.log(el);
+//     }
+
+
+//for
+// let array = []
+// for(let count = 0; count < 100; count++){
+//     if(count % 5 === 0){
+//         console.log("Iteration number:", count);
+//         array.push(count);
+//     }
+// }
+// console.log(array);
+
+// for(let count = 0; count < 10 ; count++){
+
+//     for (let innerCount = 0; innerCount < 10; innerCount++) { 
+//             console.log("count",count); 
+//             console.log("innercount",innerCount);  
+//     }
+// }
+
+//while
+// let students = ["John","Alice","Bob"];
+
+// let i = 0;
+// while(i < students.length){
+
+//     let student = students[i];
+
+//     console.log("studen name:",student);
+
+//     i++
+// }
+
+//task1 chat
+// for (let i = 1; i <= 5; i++) {
+//     console.log(i);
+    
+// }
+// let total = "hello"
+// for (let i = 0; i < total.length; i++) {
+//     console.log(total[i]);
+// }
+
+// let students = ["john","bob","pisik","it","hoku"];
+// let i = 0;
+// for (const element of students) {
+//     console.log("students name:" ,element);
+// }
+
+// for (let index in students) {
+//     let el = students[index];
+//     console.log("Student Name:",el);
+    
+// }
